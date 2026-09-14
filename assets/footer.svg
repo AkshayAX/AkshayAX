@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="150" viewBox="0 0 1000 150" fill="none" role="img">
+<style></style>
+
+<defs>
+  <linearGradient id="w1" x1="0" x2="1"><stop offset="0" stop-color="#22d3ee"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
+  <linearGradient id="w2" x1="0" x2="1"><stop offset="0" stop-color="#a78bfa"/><stop offset="1" stop-color="#f472b6"/></linearGradient>
+  <linearGradient id="w3" x1="0" x2="1"><stop offset="0" stop-color="#0e7490"/><stop offset=".5" stop-color="#6d28d9"/><stop offset="1" stop-color="#be185d"/></linearGradient>
+</defs>
+<path d="M-500,70 q62.5,-14 125.0,0 t125.0,0 q62.5,-14 125.0,0 t125.0,0 q62.5,-14 125.0,0 t125.0,0 q62.5,-14 125.0,0 t125.0,0 q62.5,-14 125.0,0 t125.0,0 q62.5,-14 125.0,0 t125.0,0 q62.5,-14 125.0,0 t125.0,0 q62.5,-14 125.0,0 t125.0,0 V150 H-500 Z" fill="url(#w1)" opacity=".35"><animateTransform attributeName="transform" type="translate" from="0 0" to="250 0" dur="9s" repeatCount="indefinite"/></path>
+<path d="M-500,88 q62.5,18 125.0,0 t125.0,0 q62.5,18 125.0,0 t125.0,0 q62.5,18 125.0,0 t125.0,0 q62.5,18 125.0,0 t125.0,0 q62.5,18 125.0,0 t125.0,0 q62.5,18 125.0,0 t125.0,0 q62.5,18 125.0,0 t125.0,0 q62.5,18 125.0,0 t125.0,0 V150 H-500 Z" fill="url(#w2)" opacity=".55"><animateTransform attributeName="transform" type="translate" from="0 0" to="250 0" dur="7s" repeatCount="indefinite"/></path>
+<path d="M-500,106 q62.5,-12 125.0,0 t125.0,0 q62.5,-12 125.0,0 t125.0,0 q62.5,-12 125.0,0 t125.0,0 q62.5,-12 125.0,0 t125.0,0 q62.5,-12 125.0,0 t125.0,0 q62.5,-12 125.0,0 t125.0,0 q62.5,-12 125.0,0 t125.0,0 q62.5,-12 125.0,0 t125.0,0 V150 H-500 Z" fill="url(#w3)" opacity=".95"><animateTransform attributeName="transform" type="translate" from="0 0" to="250 0" dur="5s" repeatCount="indefinite"/></path>
+<text x="500.0" y="136" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff" letter-spacing="1">Thanks for stopping by — let’s build something intelligent</text>
+
+</svg>
