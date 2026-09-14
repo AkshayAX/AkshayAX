@@ -14,7 +14,7 @@ ASSETS = Path(__file__).resolve().parent.parent / "assets"
 SANS = "'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif"
 MONO = "'SF Mono', Menlo, Consolas, 'Liberation Mono', 'DejaVu Sans Mono', monospace"
 
-NAME = "AKSHAYA KUMAR N"
+NAME = "AKSHAY KUMAR N"
 ROLES = "Data Scientist  ·  AI Engineer  ·  LLM Applications  ·  ML Engineer"
 TAGLINE = "bridging raw data and conversational AI"
 
@@ -35,9 +35,8 @@ M = "#8b949e"
 G = "#7ee787"
 
 TERMINAL_CODE = [
-    [(K, "class "), (F, "AkshayaKumar"), (S, "("), (C, "Engineer"), (S, "):")],
+    [(K, "class "), (F, "AkshayKumar"), (S, "("), (C, "Engineer"), (S, "):")],
     [(S, "    role       = "), (STR, '"Data Scientist · AI Engineer · ML Engineer"')],
-    [(S, "    based_in   = "), (STR, '"Bengaluru, India"')],
     [(S, "    experience = {"), (STR, '"engineering"'), (S, ": "), (C, "7"), (S, ", "),
      (STR, '"llm_in_production"'), (S, ": "), (C, "3"), (S, "}")],
     [(S, "    speciality = ["), (STR, '"NL→SQL"'), (S, ", "), (STR, '"NL→DAX"'), (S, ", "),
@@ -299,7 +298,7 @@ def build_terminal():
 <path d="M1 15a14 14 0 0 1 14-14h{w - 30}a14 14 0 0 1 14 14v26H1z" fill="#161b22"/>
 <line x1="1" y1="41" x2="{w - 1}" y2="41" stroke="#30363d"/>
 <circle cx="26" cy="21" r="6.5" fill="#ff5f57"/><circle cx="48" cy="21" r="6.5" fill="#febc2e"/><circle cx="70" cy="21" r="6.5" fill="#28c840"/>
-<text x="{w / 2}" y="26" text-anchor="middle" font-family="{SANS}" font-size="13" fill="{M}">akshaya@bengaluru — zsh — 90×{n_lines}</text>
+<text x="{w / 2}" y="26" text-anchor="middle" font-family="{SANS}" font-size="13" fill="{M}">akshay@github — zsh — 90×{n_lines}</text>
 <g font-family="{MONO}" font-size="{size}">
 {chr(10).join(parts)}
 </g>

@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="assets/header.svg" width="100%" alt="Akshaya Kumar N — Data Scientist, AI Engineer, LLM Applications, ML Engineer" />
+<img src="assets/header.svg" width="100%" alt="Akshay Kumar N — Data Scientist, AI Engineer, LLM Applications, ML Engineer" />
 
 <img src="assets/typing.svg" width="100%" alt="Natural language to SQL, DAX, MongoDB and PostGIS · production LLM agents with MCP · RAG and knowledge graphs" />
 
 <p>
-<a href="mailto:akshaydevopz@gmail.com"><img src="https://img.shields.io/badge/Email-akshaydevopz%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;<img src="https://img.shields.io/badge/Based_in-Bengaluru,_India-7C3AED?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Bengaluru, India" />&nbsp;<img src="https://img.shields.io/badge/Open_to-AI_%2F_LLM_roles-0891B2?style=for-the-badge&logo=rocket&logoColor=white" alt="Open to AI / LLM roles" />
+<a href="mailto:akshaydevopz@gmail.com"><img src="https://img.shields.io/badge/Email-akshaydevopz%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;<img src="https://img.shields.io/badge/Open_to-AI_%2F_LLM_roles-0891B2?style=for-the-badge&logo=rocket&logoColor=white" alt="Open to AI / LLM roles" />
 </p>
 
 </div>
@@ -14,7 +14,7 @@
 
 ## 🧑‍💻 About me
 
-<img src="assets/terminal.svg" width="100%" alt="about_me.py — Data Scientist and AI Engineer in Bengaluru, 7 years engineering, 3 years building production LLM apps" />
+<img src="assets/terminal.svg" width="100%" alt="about_me.py — Data Scientist and AI Engineer, 7 years engineering, 3 years building production LLM apps" />
 
 Backend and AI systems engineer with **7 years** of experience and **3 years building production LLM applications**. I specialise in natural-language interfaces over real data (NL → SQL, NL → DAX, NL → NoSQL and geospatial querying), plus RAG pipelines, distributed task orchestration, ML clustering and forecasting, and on-prem microservices with cloud DevOps on AWS and Azure.
 
